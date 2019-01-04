@@ -11,9 +11,9 @@ Discord bot meant for the SPG gaming discord channel.
 
 ## Contributors
 
-Bryan Rojas
-Lexzander Saplan
-Rodulfo Sandoval
+- Bryan Rojas
+- Lexzander Saplan
+- Rodulfo Sandoval
 
 
 ## Trello 
