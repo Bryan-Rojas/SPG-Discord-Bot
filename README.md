@@ -13,7 +13,7 @@ Discord bot meant for the SPG gaming discord channel.
 
 - Bryan Rojas
 - Lexzander Saplan
-- Rodulfo Sandoval
+- Rodolfo Sandoval
 
 
 ## Trello 
